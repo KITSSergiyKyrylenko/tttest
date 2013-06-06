@@ -1,2 +1,3 @@
 fileA
 FEATURE1aa
+FEATURE3
